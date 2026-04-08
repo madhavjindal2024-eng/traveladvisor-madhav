@@ -1,0 +1,39 @@
+:root {
+  --glass-bg: rgba(255, 255, 255, 0.08);
+  --glass-border: rgba(255, 255, 255, 0.18);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  --glass-blur: blur(20px);
+
+  --bg-primary: #0a0e1a;
+  --bg-secondary: #0f1628;
+  --bg-card: rgba(255, 255, 255, 0.06);
+
+  --accent-primary: #4f8ef7;
+  --accent-secondary: #7c5cbf;
+  --accent-gold: #e6b84f;
+
+  --text-primary: #f0f4ff;
+  --text-secondary: #9ba8c4;
+  --text-muted: #5a6480;
+
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+
+  --font-display: "Playfair Display", serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+html.light {
+  --glass-bg: rgba(255, 255, 255, 0.65);
+  --glass-border: rgba(15, 22, 40, 0.12);
+  --glass-shadow: 0 8px 32px rgba(15, 22, 40, 0.12);
+  --bg-primary: #e8ecf7;
+  --bg-secondary: #f2f5fc;
+  --bg-card: rgba(255, 255, 255, 0.72);
+  --text-primary: #0f1628;
+  --text-secondary: #4a5568;
+  --text-muted: #718096;
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "title": "How to Plan a Two-Week Japan Rail Trip",
+    "slug": "japan-rail-two-weeks",
+    "excerpt": "JR Pass strategy, reservation windows, and pacing cities with recovery days.",
+    "content": "## Table of contents\n\n1. Pass math\n2. Route skeleton\n3. Booking tactics\n\n## Pass math\n\nCompare regional passes against the nationwide JR Pass using your exact itinerary.\n\n## Route skeleton\n\nAlternate intense city blocks with nature or onsen towns to avoid burnout.\n\n## Booking tactics\n\nReserve popular legs as soon as windows open; off-peak trains feel calmer.",
+    "coverImage": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1200&q=80",
+    "category": "Itinerary",
+    "destinationTag": "Japan",
+    "authorName": "Mina Sato",
+    "readMinutes": 8
+  },
+  {
+    "title": "Packing Light for Alpine Hiking",
+    "slug": "packing-light-alpine",
+    "excerpt": "Layering systems, water safety, and gear that earns its weight in the Rockies.",
+    "content": "## Layers\n\nMerino base, breathable mid, and a packable shell.\n\n## Safety\n\nTell someone your route; carry a whistle and headlamp.\n\n## Footwear\n\nBreak in boots before the trip; blister kits are non-negotiable.",
+    "coverImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200&q=80",
+    "category": "Packing",
+    "destinationTag": "Canada",
+    "authorName": "Alex Rivers",
+    "readMinutes": 6
+  },
+  {
+    "title": "Budget Hacks for Mediterranean Islands",
+    "slug": "med-islands-budget",
+    "excerpt": "Ferry timing, shoulder-season stays, and dining where locals eat.",
+    "content": "## Ferries\n\nMidweek sailings often cost less than weekends.\n\n## Stays\n\nLook inland villages a short bus ride from famous viewpoints.\n\n## Dining\n\nLunch menus can mirror dinner quality at half the price.",
+    "coverImage": "https://images.unsplash.com/photo-1533105079837-38be9c06190c?w=1200&q=80",
+    "category": "Budget",
+    "destinationTag": "Greece",
+    "authorName": "Elena Costa",
+    "readMinutes": 7
+  }
+]

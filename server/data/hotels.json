@@ -1,0 +1,72 @@
+[
+  {
+    "destinationSlug": "kyoto-japan",
+    "slug": "gion-boutique",
+    "name": "Gion Boutique Ryokan",
+    "description": "Quiet tatami rooms near Yasaka Shrine with onsen access.",
+    "images": ["https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80"],
+    "starRating": 4,
+    "pricePerNight": 210,
+    "amenities": ["WiFi", "Onsen", "Breakfast"],
+    "distanceFromCenterKm": 0.8,
+    "lat": 35.0038,
+    "lng": 135.775,
+    "reviewsSnippet": [{ "author": "Alex M.", "rating": 5, "text": "Impeccable service and location." }]
+  },
+  {
+    "destinationSlug": "kyoto-japan",
+    "slug": "kyoto-station-hotel",
+    "name": "Kyoto Station Tower Hotel",
+    "description": "Modern rooms with skyline views and direct station access.",
+    "images": ["https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800&q=80"],
+    "starRating": 4,
+    "pricePerNight": 145,
+    "amenities": ["WiFi", "Gym", "Parking"],
+    "distanceFromCenterKm": 2.1,
+    "lat": 34.9858,
+    "lng": 135.7588,
+    "reviewsSnippet": [{ "author": "Sam R.", "rating": 4, "text": "Convenient for Shinkansen days." }]
+  },
+  {
+    "destinationSlug": "lisbon-portugal",
+    "slug": "alfama-lisbon",
+    "name": "Alfama Terrace Suites",
+    "description": "Rooftop terraces overlooking the Tagus and historic rooftops.",
+    "images": ["https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80"],
+    "starRating": 4,
+    "pricePerNight": 118,
+    "amenities": ["WiFi", "Pool", "Parking"],
+    "distanceFromCenterKm": 1.2,
+    "lat": 38.71,
+    "lng": -9.132,
+    "reviewsSnippet": [{ "author": "Jordan K.", "rating": 5, "text": "Sunsets from the terrace were unreal." }]
+  },
+  {
+    "destinationSlug": "banff-canada",
+    "slug": "mountain-lodge-banff",
+    "name": "Mountain View Lodge",
+    "description": "Stone fireplace lobby and ski shuttle in winter.",
+    "images": ["https://images.unsplash.com/photo-1542314831-068cd3db313b?w=800&q=80"],
+    "starRating": 4,
+    "pricePerNight": 240,
+    "amenities": ["WiFi", "Pool", "Gym", "Parking"],
+    "distanceFromCenterKm": 0.5,
+    "lat": 51.178,
+    "lng": -115.572,
+    "reviewsSnippet": [{ "author": "Chris P.", "rating": 5, "text": "Perfect base for the park." }]
+  },
+  {
+    "destinationSlug": "santorini-greece",
+    "slug": "caldera-suites",
+    "name": "Caldera Edge Suites",
+    "description": "Cave-style suites with plunge pools facing the caldera.",
+    "images": ["https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=800&q=80"],
+    "starRating": 5,
+    "pricePerNight": 320,
+    "amenities": ["WiFi", "Pool", "Breakfast"],
+    "distanceFromCenterKm": 0.3,
+    "lat": 36.423,
+    "lng": 25.431,
+    "reviewsSnippet": [{ "author": "Morgan L.", "rating": 5, "text": "Worth the splurge for the view." }]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Kyoto",
+    "country": "Japan",
+    "slug": "kyoto-japan",
+    "description": "Temples, tea houses, and bamboo groves in Japan's cultural heart. Kyoto rewards slow travel with seasonal gardens and refined cuisine.",
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200&q=80",
+      "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200&q=80",
+      "https://images.unsplash.com/photo-1624253326479-5c961cb8b3b1?w=1200&q=80"
+    ],
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "tags": ["Cultural", "Romantic", "Food"],
+    "type": "cultural",
+    "rating": 4.8,
+    "avgCostPerDay": 140,
+    "bestTimeToVisit": "March to May and October to November for mild weather and cherry or autumn color peaks.",
+    "climateMonthly": [
+      { "month": "Jan", "avgHighC": 9, "avgLowC": 1, "rainfallMm": 50 },
+      { "month": "Apr", "avgHighC": 20, "avgLowC": 9, "rainfallMm": 120 },
+      { "month": "Jul", "avgHighC": 31, "avgLowC": 23, "rainfallMm": 220 },
+      { "month": "Oct", "avgHighC": 23, "avgLowC": 14, "rainfallMm": 140 }
+    ],
+    "localTips": [
+      "Reserve popular kaiseki dinners at least two weeks ahead.",
+      "Use IC cards for buses and subways; rush hour on bus route 206 can be tight.",
+      "Many temples open early; visit Fushimi Inari at dawn for quieter paths."
+    ],
+    "costBreakdown": { "accommodation": 90, "food": 35, "transport": 15, "activities": 25, "misc": 15 },
+    "safetyAlerts": ["Low general risk; watch for crowded festival days and heat in midsummer."],
+    "phrasebook": [
+      { "phrase": "Hello", "translation": "Konnichiwa" },
+      { "phrase": "Thank you", "translation": "Arigato gozaimasu" },
+      { "phrase": "Excuse me", "translation": "Sumimasen" }
+    ],
+    "pointsOfInterest": [
+      { "name": "Fushimi Inari Taisha", "type": "attraction", "lat": 34.9671, "lng": 135.7727, "note": "Iconic torii gates" },
+      { "name": "Gion district", "type": "attraction", "lat": 35.0036, "lng": 135.7756, "note": "Historic streets" },
+      { "name": "Nishiki Market", "type": "restaurant", "lat": 35.005, "lng": 135.7649, "note": "Street food" }
+    ]
+  },
+  {
+    "name": "Lisbon",
+    "country": "Portugal",
+    "slug": "lisbon-portugal",
+    "description": "Seven hills, yellow trams, Atlantic breezes, and a creative food scene. Lisbon blends old-world charm with startup energy.",
+    "heroImage": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?w=1600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1548707309-dcebeab9ea9a?w=1200&q=80"
+    ],
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "tags": ["City", "Food", "Family"],
+    "type": "city",
+    "rating": 4.7,
+    "avgCostPerDay": 95,
+    "bestTimeToVisit": "April-June and September-October for comfortable walking weather.",
+    "climateMonthly": [
+      { "month": "Jan", "avgHighC": 15, "avgLowC": 8, "rainfallMm": 110 },
+      { "month": "Jul", "avgHighC": 28, "avgLowC": 18, "rainfallMm": 5 }
+    ],
+    "localTips": [
+      "Buy a Viva Viagem card for metro, tram, and elevadores.",
+      "Miradouros are free; sunset at Senhora do Monte is memorable."
+    ],
+    "costBreakdown": { "accommodation": 55, "food": 28, "transport": 12, "activities": 18, "misc": 12 },
+    "safetyAlerts": ["Watch pickpockets on crowded trams 28 and 15."],
+    "phrasebook": [
+      { "phrase": "Hello", "translation": "Ola" },
+      { "phrase": "Thank you", "translation": "Obrigado" }
+    ],
+    "pointsOfInterest": [
+      { "name": "Alfama", "type": "attraction", "lat": 38.7125, "lng": -9.13, "note": "Fado quarter" },
+      { "name": "Time Out Market", "type": "restaurant", "lat": 38.7069, "lng": -9.1454, "note": "Food hall" }
+    ]
+  },
+  {
+    "name": "Banff",
+    "country": "Canada",
+    "slug": "banff-canada",
+    "description": "Rocky Mountain peaks, turquoise lakes, and trailheads from the townsite. Gateway to Banff National Park adventures.",
+    "heroImage": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1561134265-79a4de7b0d0b?w=1200&q=80"
+    ],
+    "lat": 51.1784,
+    "lng": -115.5708,
+    "tags": ["Mountain", "Adventure", "Nature"],
+    "type": "mountain",
+    "rating": 4.9,
+    "avgCostPerDay": 180,
+    "bestTimeToVisit": "June-September for hiking; December-March for skiing.",
+    "climateMonthly": [
+      { "month": "Jan", "avgHighC": -5, "avgLowC": -15, "rainfallMm": 20 },
+      { "month": "Jul", "avgHighC": 22, "avgLowC": 7, "rainfallMm": 60 }
+    ],
+    "localTips": [
+      "Parks Canada pass required; purchase online to skip queues.",
+      "Wildlife is common; carry bear spray on backcountry trails."
+    ],
+    "costBreakdown": { "accommodation": 110, "food": 40, "transport": 20, "activities": 35, "misc": 15 },
+    "safetyAlerts": ["Avalanche and wildlife advisories apply in winter and backcountry."],
+    "phrasebook": [
+      { "phrase": "Hello", "translation": "Hello" },
+      { "phrase": "Thank you", "translation": "Thank you" }
+    ],
+    "pointsOfInterest": [
+      { "name": "Lake Louise", "type": "attraction", "lat": 51.4254, "lng": -116.1773, "note": "Glacial lake" },
+      { "name": "Sulphur Mountain", "type": "attraction", "lat": 51.1445, "lng": -115.5586, "note": "Gondola" }
+    ]
+  },
+  {
+    "name": "Santorini",
+    "country": "Greece",
+    "slug": "santorini-greece",
+    "description": "Caldera views, whitewashed villages, and Aegean sunsets. A classic island escape with volcanic beaches.",
+    "heroImage": "https://images.unsplash.com/photo-1613395877344-13d4c79e4284?w=1600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=1200&q=80"
+    ],
+    "lat": 36.3932,
+    "lng": 25.4615,
+    "tags": ["Beach", "Romantic", "Relaxation"],
+    "type": "beach",
+    "rating": 4.6,
+    "avgCostPerDay": 165,
+    "bestTimeToVisit": "Late April to early June and September for thinner crowds.",
+    "climateMonthly": [
+      { "month": "Jun", "avgHighC": 28, "avgLowC": 20, "rainfallMm": 0 },
+      { "month": "Aug", "avgHighC": 30, "avgLowC": 24, "rainfallMm": 0 }
+    ],
+    "localTips": [
+      "Book caldera-facing rooms early; ferry schedules vary by season.",
+      "Hike Fira to Oia at sunrise to avoid midday heat."
+    ],
+    "costBreakdown": { "accommodation": 95, "food": 45, "transport": 25, "activities": 30, "misc": 20 },
+    "safetyAlerts": ["Cliff paths may be slippery; sturdy shoes recommended."],
+    "phrasebook": [
+      { "phrase": "Hello", "translation": "Yasou" },
+      { "phrase": "Thank you", "translation": "Efharisto" }
+    ],
+    "pointsOfInterest": [
+      { "name": "Oia sunset", "type": "attraction", "lat": 36.4618, "lng": 25.3758, "note": "Classic viewpoint" },
+      { "name": "Akrotiri", "type": "hidden", "lat": 36.3514, "lng": 25.4042, "note": "Minoan site" }
+    ]
+  }
+]

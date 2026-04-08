@@ -2,6 +2,8 @@
 
 A full-stack travel planning and discovery web app built for a college project.
 
+Source Code Repository: https://github.com/madhavjindal2024-eng/traveladvisor-madhav
+
 ## Tech Stack
 
 - Frontend: `React + Vite`
@@ -19,7 +21,7 @@ traveladvisor/
   server/   -> Express API
 ```
 
-## Quick Start 
+## Quick Start (Step by Step for New Users)
 
 ### 1) Clone from GitHub
 
